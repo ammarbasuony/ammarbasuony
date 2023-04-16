@@ -50,7 +50,9 @@ Here are some of the projects I've worked on:
 - [Mesaagator](https://messagator.app/): A web/mobile application that allows users open a WhatsApp chat with any unknown phone number without having to save it in your contacts. 📱💬.
 - [XO Game](https://ammaryaser.com/Practice/XO): An online web app version of the classic game "TicTacToe" that allows you to compete against other players in real-time! 🤩🎮
 - [Blast Royale](https://www.blastroyale.com/): The official website of a mobile game app
-- [Addicta](https://ammaryaser.com/Projects/Addicta/): The official website of a software solution company 
+- [Addicta](https://ammaryaser.com/Projects/Addicta/): The official website of a software solution company
+- [Mogarrad Kalam](https://mogarrad-kalam.com/): A website for thoughts eBook that allows user to read and listen to the book content
+- [Sharjah General Directory of Civil Defence](https://www.shjcd.gov.ae/ar/pages/default.aspx): an online platform providing information and services related to civil defense in Sharjah (UAE), including fire safety, emergency preparedness, and online applications for permits and inspections.
 
 ## 📫 Contact Me
 If you'd like to get in touch, feel free to reach out to me at 📧 [ammaryaser.dev@gmail.com](mailto:ammaryaser.dev@gmail.com) | ☎️ [+201092485755](tel:+201092485755).
