@@ -35,8 +35,8 @@ Consistently, I've always been passionate about 🎨 color, 🔴🟢 shapes, �
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![adobexd](https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![adobephotoshop](https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![adobexd](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![adobephotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 - 👨‍💻 Languages: JavaScript, PHP, HTML, CSS
 - 🛠️ Frameworks and Libraries: React.js, Next.js, React Native, Vue.js, Nuxt.js, Node.js, Express.js
