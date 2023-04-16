@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Ammar Yaser! 
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ammarbasuony) [![github](https://img.shields.io/badge/GitHub-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://github.com/ammarbasuony](https://twitter.com/EngAmmarYaser))
+[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ammarbasuony) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EngAmmarYaser))
 
 🚀 I am a Senior Software Engineer with +9 years of experience specializing in Software Development.
 
