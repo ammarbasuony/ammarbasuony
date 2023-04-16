@@ -40,12 +40,17 @@ Consistently, I've always been passionate about 🎨 color, 🔴🟢 shapes, �
 
 - 👨‍💻 Languages: JavaScript, PHP, HTML, CSS
 - 🛠️ Frameworks and Libraries: React.js, Next.js, React Native, Vue.js, Nuxt.js, Node.js, Express.js
-- ☁️ Cloud Platforms: AWS, Google Cloud Platform, Normal VPSs/Dedicated Servers
+- ☁️ Cloud Platforms: AWS, Google Cloud Platform, Normal VPS/Dedicated Servers
 - 🛠️ Tools and Technologies: Docker, Nginx, Git
 - 🗃️ Databases: MongoDB, MySQL, SQLite
 - 🎨 Design Tools: Figma, Adobe XD, Adobe Photoshop
 
-
+## 🚀 Projects
+Here are some of the projects I've worked on:
+- [Mesaagator](https://messagator.app/): A web/mobile application that allows users open a WhatsApp chat with any unknown phone number without having to save it in your contacts. 📱💬.
+- [XO Game](https://ammaryaser.com/Practice/XO): An online web app version of the classic game "TicTacToe" that allows you to compete against other players in real-time! 🤩🎮
+- [Blast Royale](https://www.blastroyale.com/): The official website of a mobile game app
+- [Addicta](https://ammaryaser.com/Projects/Addicta/): The official website of a software solution company 
 
 ## 📫 Contact Me
 If you'd like to get in touch, feel free to reach out to me at 📧 [ammaryaser.dev@gmail.com](mailto:ammaryaser.dev@gmail.com) | ☎️ [+201092485755](tel:+201092485755).
