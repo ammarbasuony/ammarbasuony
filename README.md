@@ -54,6 +54,9 @@ Here are some of the projects I've worked on:
 - [Mogarrad Kalam](https://mogarrad-kalam.com/): A website for thoughts eBook that allows user to read and listen to the book content
 - [Sharjah General Directory of Civil Defence](https://www.shjcd.gov.ae/ar/pages/default.aspx): an online platform providing information and services related to civil defense in Sharjah (UAE), including fire safety, emergency preparedness, and online applications for permits and inspections.
 
+## 📝 My Latest Posts
+- How to Make Filterable Portfolio With React.js [https://ammaryaser.com/blog/6](https://ammaryaser.com/blog/6)
+
 ## 📫 Contact Me
 If you'd like to get in touch, feel free to reach out to me at 📧 [ammaryaser.dev@gmail.com](mailto:ammaryaser.dev@gmail.com) | ☎️ [+201092485755](tel:+201092485755).
 
