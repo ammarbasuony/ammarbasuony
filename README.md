@@ -58,6 +58,7 @@ Here are some of the projects I've worked on:
 - How to Make Filterable Portfolio With React.js [https://ammaryaser.com/blog/6](https://ammaryaser.com/blog/6)
 
 ## 📫 Contact Me
-If you'd like to get in touch, feel free to reach out to me at 📧 [ammaryaser.dev@gmail.com](mailto:ammaryaser.dev@gmail.com) | ☎️ [+201092485755](tel:+201092485755).
+If you'd like to get in touch, feel free to reach out to me at\
+📧 [ammaryaser.dev@gmail.com](mailto:ammaryaser.dev@gmail.com) | ☎️ [+201092485755](tel:+201092485755).
 
 Thanks for stopping by! 😄
