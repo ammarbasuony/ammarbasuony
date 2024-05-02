@@ -47,7 +47,8 @@ Consistently, I've always been passionate about 🎨 color, 🔴🟢 shapes, �
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
-- [Mesaagator](https://messagator.app/): A web/mobile application that allows users open a WhatsApp chat with any unknown phone number without having to save it in your contacts. 📱💬.
+- [Wassapy](https://wassapy.com/): Wassapy (WhatsApp Client for Marketing and Business) is a desktop app that allows users 👤 to sign in with their WhatsApp 📱 account and has more powerful features ✨ like: Bulk Send Messages 🗣️
+- [Mesaagator](https://messagator.app/): A web/mobile application that allows users to open a WhatsApp chat with any unknown phone number without having to save it in your contacts. 📱💬.
 - [XO Game](https://ammaryaser.com/Practice/XO): An online web app version of the classic game "TicTacToe" that allows you to compete against other players in real-time! 🤩🎮
 - [Blast Royale](https://www.blastroyale.com/): The official website of a mobile game app
 - [Addicta](https://ammaryaser.com/Projects/Addicta/): The official website of a software solution company
@@ -56,6 +57,7 @@ Here are some of the projects I've worked on:
 
 ## 📝 My Latest Posts
 - How to Make Filterable Portfolio With React.js [https://ammaryaser.com/blog/6](https://ammaryaser.com/blog/6)
+- My First Impression of Zed - AI Code Editor 👨‍💻 [https://ammaryaser.com/blog/7](https://ammaryaser.com/blog/7)
 
 ## 📫 Contact Me
 If you'd like to get in touch, feel free to reach out to me at\
